@@ -1,0 +1,13 @@
+﻿l_russian:
+
+ mem_sr_zro_with_icon:0 "£sr_zro£ $sr_zro$"
+ mem_from_outpost:0 " с постов наблюдения"
+ mod_explosive_weapon_damage_mult: "Урон взрывным оружием"
+ mod_planet_biologists_exotic_gases_produces_add: "$exotic_gases_with_icon$ на $pop_group_unit$ $job_biologist_plural_with_icon$"
+ mod_planet_biologists_unity_produces_add: "$unity_with_icon$ на $pop_group_unit$ $job_biologist_plural_with_icon$"
+ mod_planet_physicists_unity_produces_add: "$unity_with_icon$ на $pop_group_unit$ $job_physicist_plural_with_icon$"
+ mod_planet_physicists_sr_zro_produces_add: "$mem_sr_zro_with_icon$ на $pop_group_unit$ $job_physicist_plural_with_icon$"
+ mod_planet_engineers_unity_produces_add: "$unity_with_icon$ на $pop_group_unit$ $job_engineer_plural_with_icon$"
+ mod_planet_technician_unity_produces_add: "$unity_with_icon$ на $pop_group_unit$ $job_technician_plural_with_icon$"
+ mod_planet_civilians_sr_zro_upkeep_add: "$mem_sr_zro_with_icon$ Содержание на $pop_group_unit$ £job_civilian£ $job_civilian_plural$"
+ mod_planet_maintenance_drones_sr_zro_upkeep_add: "$mem_sr_zro_with_icon$ Содержание на $pop_group_unit$ [maintenance_drone.GetIcon] [maintenance_drone.GetNamePlural]"
