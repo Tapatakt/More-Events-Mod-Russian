@@ -2,8 +2,8 @@
 
  mem_sleepers_energy_cost:0 "Возврат займа"
  mem_sleepers_research_boost:0 "Опыт Озари"
- mem_leader_trait_last_ozari:0 "Последний Озари"
- mem_leader_trait_last_ozari_desc:0 "Озари были мастерами в области биотехнологий."
+ leader_trait_mem_last_ozari:0 "Последний Озари"
+ leader_trait_mem_last_ozari_desc:0 "Озари были мастерами в области биотехнологий."
  MEM_SLEEPERS_SCAN:0 "Тревожные энергетические показания"
  MEM_SLEEPERS_SCAN_DESC:0 "Наблюдательная станция над §Y[From.GetName]§! докладывает о необычных и тревожных показаниях, полученных с планеты. Предварительный анализ свидетельствует о приближающейся катастрофе, но для полного анализа необходимо привлечь экспертов."
  mem_sleepers.2.name:0 "Внизу"

@@ -40,6 +40,7 @@
  mem_hive_encounter.11.desc:0 "Пришло время вернуть добровольцев [mem_hive_encounter_normal_country.species.GetName] обратно в [mem_hive_encounter_normal_country.GetName], как мы и договаривались. Конечно, мы могли бы пойти на попятную и оставить их для дальнейшего изучения, но [mem_hive_encounter_normal_country.species.GetNamePlural], скорее всего, не захотят этого!"
  mem_hive_encounter.11.a:0 "Отправьте их обратно."
  mem_hive_encounter.11.b:0 "Сохраните их."
+ mem_hive_encounter.11.c:0 "Поглотить их."
  mem_hive_encounter.12.name:0 "Возвращение Добровольцев"
  mem_hive_encounter.12.desc:0 "Добровольцы, которых мы отправили в [mem_hive_encounter_hive_country.GetName], были возвращены нам. Они утверждают, что их \"кругозор расширился\" благодаря \"открывающему глаза\" опыту, что бы это ни значило. По общему мнению, [mem_hive_encounter_hive_country.GetSpeciesNamePlural] оказались хорошими хозяевами, хотя добровольцы, конечно, рады вернуться в более привычную обстановку!"
  mem_hive_encounter.12.a:0 "Приятно слышать."

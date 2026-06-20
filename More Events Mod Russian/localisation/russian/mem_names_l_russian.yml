@@ -15,6 +15,7 @@
  NAME_MEM_High_Inquisitor:0 "Верховный инквизитор"
  NAME_Amoeba:0 "Амёба"
  NAME_MEM_Old_One:0 "Старый"
+ NAME_MEM_undead_Old_One:0 "Возрождённое Древнее Существо"
  MEM_NAME_broken_clock_habitat_name:0 "Орбиталь [PrevPrev.GetName]"
  NAME_Czar_Alexei_Korolev:0 "Царь Алексей Королев"
  NAME_Alexei_Korolev:0 "Алексей Королев"
@@ -360,3 +361,4 @@
  NAME_The_Ascendant:0 "Возносящийся"
  NAME_Refurbished_Rock:0 "Восстановленный камень"
  NAME_Reshaped_Boulder:0 "Измененный валун"
+ NAME_Deserters:0 "Дезертиры"

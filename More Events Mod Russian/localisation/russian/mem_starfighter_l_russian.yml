@@ -1,9 +1,9 @@
 ﻿l_russian:
 
- mem_starfighter_admiral_trait:0 "Чемпион Галактической Войны"
- mem_starfighter_admiral_trait_desc:0 "Этот лидер был завербован с примитивной планеты через суровый процесс игры в видеоигры."
- mem_starfighter_general_trait:0 "$mem_starfighter_admiral_trait$"
- mem_starfighter_general_trait_desc:0 "$mem_starfighter_admiral_trait_desc$"
+ leader_trait_mem_starfighter_admiral:0 "Чемпион галактических войн"
+ leader_trait_mem_starfighter_admiral_desc:0 "Этот лидер был завербован с примитивной планеты в ходе строгого отбора с помощью видеоигр."
+ leader_trait_mem_starfighter_general:0 "$leader_trait_mem_starfighter_admiral$"
+ leader_trait_mem_starfighter_general_desc:0 "$leader_trait_mem_starfighter_admiral_desc$"
  MEM_STARFIGHTER_PROJECT:0 "Рекрутировать Чемпиона Галактической Войны"
  MEM_STARFIGHTER_PROJECT_DESC:0 "Юноша [primitive_civ.GetAdj] с планеты [primitive_civ.Capital_Scope.GetName] показывает большие перспективы в военных симуляторах, замаскированных под электронные развлечения. Наши агенты должны нанести ему незаметный визит."
  mem_starfighter_admiral_modifier:0 "Аналитические Данные Галактической Войны"

@@ -1,11 +1,11 @@
 ﻿l_russian:
 
- trait_mem_crawler_pet_owner: "Ручной Ползун"
- trait_mem_crawler_pet_owner_desc: "Этот лидер является гордым обладателем единственного в своем роде ручного ползуна."
- trait_mem_crawler_pet_owner_cloned: "Ручной Ползун"
- trait_mem_crawler_pet_owner_cloned_desc: "Этот лидер является гордым владельцем ручного ползуна."
- trait_mem_crawler_pet_owner_ruler: "$trait_mem_crawler_pet_owner$"
- trait_mem_crawler_pet_owner_ruler_desc: "$trait_mem_crawler_pet_owner_desc$"
+ leader_trait_mem_crawler_pet_owner: "Хозяин ползуна"
+ leader_trait_mem_crawler_pet_owner_desc: "Этот лидер с гордостью владеет уникальным питомцем-ползуном."
+ leader_trait_mem_crawler_pet_owner_cloned: "Хозяин ползуна"
+ leader_trait_mem_crawler_pet_owner_cloned_desc: "Этот лидер является гордым владельцем ручного ползуна."
+ leader_trait_mem_crawler_pet_owner_ruler: "$leader_trait_mem_crawler_pet_owner$"
+ leader_trait_mem_crawler_pet_owner_ruler_desc: "$leader_trait_mem_crawler_pet_owner_desc$"
  mem_crawler_anomaly: "Одинокий Признак Жизни"
  mem_crawler_anomaly_desc: "На безжизненной поверхности [This.GetName] обнаружен слабый признак жизни."
  mem_crawler.1.name: "Жучок в Коробке"
