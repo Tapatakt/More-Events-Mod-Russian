@@ -80,7 +80,7 @@
  relic_mem_amoeba_sample_passive_tooltip:0 "Позволяет терраформировать §Yкандидатов на терраформирование токсичных миров§! в §Y$pc_gaia$s§!.\nУ нас §Y[Owner.num_toxic_terraform_candidates]§! таких в пределах нашей границы."
  tech_mem_toxic_gaiaforming:0 "Идеальный мир из токсичного"
  tech_mem_toxic_gaiaforming_desc:0 "Изучение образцов, полученных из древней амёбы, разбившейся на нашей колонии, позволит нам понять, как воспроизвести её влияние на биосферу планеты."
- TECH_UNLOCK_tech_mem_toxic_gaiaforming_TITLE:0 "§YОткрывает реликвию:§! $r_mem_amoeba_sample$"
+ TECH_UNLOCK_tech_mem_toxic_gaiaforming_TITLE:0 "§OОткрывает реликвию:§! $r_mem_amoeba_sample$"
  TECH_UNLOCK_tech_mem_toxic_gaiaforming_DESC:0 "$r_mem_amoeba_sample_desc$"
  decision_mem_toxic_terraforming:0 "Идеальный мир из токсичного"
  decision_mem_toxic_terraforming_desc:0 "В течение десятилетий, эта планета превращалась из токсичной пустоши в пышный мир садов."
